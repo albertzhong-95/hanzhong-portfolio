@@ -8,5 +8,5 @@ Hello, my name is Han Zhong, I came from China. For those who cannot pronounce m
 I am about to become an cybersecurity consultant in August this year, this job requires me do a lot presentation to my clients, so I wish to learn how to present my thoughts and numbers better.
 
 # Portfolio
-Live link to future work: [github ]https://albertzhong-95.github.io/Telling-Story-with-Data/
+Live link to future work: [github ] (https://albertzhong-95.github.io/Telling-Story-with-Data/)
 Link to assignment 1: Han Zhong - Critique #1_ Economist bar chart (The Good Charts Matrix).xlsx
