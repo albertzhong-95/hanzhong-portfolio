@@ -11,7 +11,7 @@ I am about to become an cybersecurity consultant in August this year, this job r
 Link to this portfolio: [Protfolio](https://albertzhong-95.github.io/hanzhong-portfolio/)  
 Link to future work: [Future Work](https://albertzhong-95.github.io/Telling-Story-with-Data/)  
   
-Link to assignment 1: Han Zhong - Critique #1_ Economist bar chart (The Good Charts Matrix).xlsx  
+Link to assignment 1: [Assignment 1](https://github.com/albertzhong-95/hanzhong-portfolio/blob/master/Han%20Zhong%20-%20Critique%20%231_%20Economist%20bar%20chart%20(The%20Good%20Charts%20Matrix).xlsx)
   
 Explore the Assignment 2...  
 <iframe src="https://data.oecd.org/chart/5PfE" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5PfE" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
