@@ -12,4 +12,4 @@ I am about to become an cybersecurity consultant in August this year, this job r
   
 *Explore the Assignment assignment 1:* [Assignment 1](https://github.com/albertzhong-95/hanzhong-portfolio/blob/master/Han%20Zhong%20-%20Critique%20%231_%20Economist%20bar%20chart%20(The%20Good%20Charts%20Matrix).xlsx)
   
-*Explore the Assignment 2*  [Assignment 1](https://albertzhong-95.github.io/Telling-Story-with-Data/)  
+*Explore the Assignment 2*  [Assignment 2](https://albertzhong-95.github.io/Telling-Story-with-Data/)  
