@@ -14,6 +14,5 @@ I am about to become an cybersecurity consultant in August this year, this job r
   
 *Explore the Assignment 2:* [Assignment 2](https://albertzhong-95.github.io/Telling-Story-with-Data/)  
   
-*Explore the Assignment 3:* [Assignment 3]  
-  
-*Explore the Assignment 4:* [Assignment 4]  
+*Explore the Assignment 3&4:* [Assignment 3 - Critique]  
+                              [Assignment 4 - Visulization]
