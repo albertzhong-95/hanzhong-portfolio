@@ -10,9 +10,9 @@ I am about to become an cybersecurity consultant in August this year, this job r
 # Portfolio
 -Link to this portfolio: [Protfolio](https://albertzhong-95.github.io/hanzhong-portfolio/)  
   
-*Explore the Assignment 1:* [Assignment 1](https://github.com/albertzhong-95/hanzhong-portfolio/blob/master/Han%20Zhong%20-%20Critique%20%231_%20Economist%20bar%20chart%20(The%20Good%20Charts%20Matrix).xlsx)
+*Explore the Assignment 1:* [Assignment 1 - Critique #1](https://github.com/albertzhong-95/hanzhong-portfolio/blob/master/Han%20Zhong%20-%20Critique%20%231_%20Economist%20bar%20chart%20(The%20Good%20Charts%20Matrix).xlsx)
   
-*Explore the Assignment 2:* [Assignment 2](https://albertzhong-95.github.io/Telling-Story-with-Data/)  
+*Explore the Assignment 2:* [Assignment 2 - Visualization #1](https://albertzhong-95.github.io/Telling-Story-with-Data/)  
   
-*Explore the Assignment 3&4:* [Assignment 3 - Critique](https://github.com/albertzhong-95/hanzhong-portfolio/blob/master/Han%20Zhong%20-%20Critique%20%232_%20Data%20Visualization%20Effectiveness%20Profile.pdf)  
-                              [Assignment 4 - Visulization]
+*Explore the Assignment 3&4:* [Assignment 3 - Critique #2](https://github.com/albertzhong-95/hanzhong-portfolio/blob/master/Han%20Zhong%20-%20Critique%20%232_%20Data%20Visualization%20Effectiveness%20Profile.pdf)  
+                              [Assignment 4 - Visualization #2]
