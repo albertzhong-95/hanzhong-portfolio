@@ -18,3 +18,6 @@ I am about to become an cybersecurity consultant in August this year, this job r
 [Assignment 3 - Critique #2;](https://github.com/albertzhong-95/hanzhong-portfolio/blob/master/Han%20Zhong%20-%20Critique%20%232_%20Data%20Visualization%20Effectiveness%20Profile.pdf) [Assignment 4 - Visualization #2(Part 1);](https://github.com/albertzhong-95/hanzhong-portfolio/blob/master/Han%20Zhong%20-%20Visualization%20%232_%20Adult%20Education%20Level.pdf) [Assignment 4 - Visualization #2(Part 2)](https://github.com/albertzhong-95/hanzhong-portfolio/blob/master/Han%20Zhong%20-%20Visualization%20%232%20Second%20Part.docx)  
 After gettting advices from my two friends, I used RAWGraphs to make a new visualization:
 [Final Visualization](https://github.com/albertzhong-95/hanzhong-portfolio/blob/master/Scatter%20Plot.png)
+  
+*Explore the Final Project:*  
+[Final Project](https://albertzhong-95.github.io/Final-Project_Han-Zhong/)
